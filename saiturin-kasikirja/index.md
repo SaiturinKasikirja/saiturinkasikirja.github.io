@@ -1,3 +1,11 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+title:
+layout: default
+---
+
 # Saiturin Käsikirja
 
 Tämän käsikirjan tavoitteena on auttaa ihmisiä säästämään ja kasvattamaan varallisuuttaan. Lukijoiden odotetaan soveltavan ohjeita omien tarpeiden, arvojen ja vakaumuksen mukaisesti.
@@ -10,7 +18,7 @@ Tämän käsikirjan tavoitteena on auttaa ihmisiä säästämään ja kasvattama
 - [Puhelinliittymä](#puhelinliittymä)
 - [Liikkuminen](#liikkuminen)
 - [Asuminen](#asuminen)
-    - [Omistusasunto](#omistuasunto)
+    - [Omistusasunto](#omistusasunto)
 - [Ruoka](#ruoka)
 - [Verot](#verot)
 - [Sijoittaminen](#sijoittaminen)
@@ -81,7 +89,7 @@ Ilmainen autopaikka on myös rahanarvoinen etu.
 
 Lämmityksessä kannattaa välttää kallista suorasähkölämmitystä. Suosi edullista kauko- ja maalämpöä.
 
-#### Omistuasunto
+#### **Omistusasunto**
 
 Asuntoa ei kannata koskaan omistaa kokonaan. Jos omistat asunnon kokonaan on sinulla sidottuna valtavasti varallisuutta asuntoon. Tällöin taas menetät valtavat tuloja jotka saisit sijoittamalla nuo asuntoon sidotut varat. 
 
@@ -155,7 +163,7 @@ Itse sijoitan pääsääntöisesti SP500 indeksiin, eli "[iShares Core S&P 500 U
 
 ETF indeksrahastojen lisäksi voi käyttää pankkien omia ja edullisia rahastoja. Tälläinen on esimerkiksi [OP-Amerikka](https://www.op.fi/henkiloasiakkaat/saastot-ja-sijoitukset/rahastot/kaikki-rahastot/op-amerikka-indeksi).
 
-#### Hankintameno-olettama
+#### **Hankintameno-olettama**
 
 Hankinta-olettama on vaihtoehtoinen tapa laskea voitosta maksettava vero. Normaalisti voitosta maksetaan veroa 30% ja 30 000e ylittävältä osalta 34% prosenttia. Hankintahinta-olettamassa lasketaan hankintahinta myyntihinnasta prosenttiosuudella, niin että hankintahinta on 20% myynthinnasta, jos osake on ollut alle 10v hallussa ja 40% myynthinnasta, jos osake on ollut yli 10v hallussa. 
 
@@ -163,7 +171,7 @@ Hankinta-olettama on vaihtoehtoinen tapa laskea voitosta maksettava vero. Normaa
 
 [Esimerkin lähde](https://www.salkunrakentaja.fi/2013/09/nin-hydynnt-hankintameno-olettamaa-myyntivoitoissa/).
 
-#### Osakesäästötili
+#### **Osakesäästötili**
 
 "Osakesäästötilin sisällä voit ostaa ja myydä pörssiosakkeita niin, ettei sinun tarvitse maksaa veroa yksittäisistä myynneistä. Myöskään osinkoja ja korkotuloja ei veroteta vielä siinä vaiheessa, kun ne tulevat osakesäästötilille. Osakesäästötilin tuotto verotetaan vasta silloin, kun nostat sieltä rahaa." [Lähde](https://www.vero.fi/henkiloasiakkaat/omaisuus/sijoitukset/osakes%C3%A4%C3%A4st%C3%B6tili/).
 
